@@ -17,7 +17,7 @@ Welcome to the official GitHub organization for KSP Community! This organization
 
 - **Mod Parts Lister:** Explore and contribute to our Mod Parts Lister repository [here](https://github.com/kspcommunity/Mod-Parts-Lister).
 - **Devblog:** Stay updated with our development blog [here](https://github.com/kspcommunity/devblog).
-- 
+  
 ## Notable Endpoints
 - **Mod Parts Data:** Access mod parts data directly from [this JSON file](https://mod-parts.kspcommunity.com/data.json).
 
