@@ -38,5 +38,3 @@ For any inquiries or assistance, feel free to reach out to us at [info@kspcommun
 
 **About KSP Community:**
 KSP Community is a social-media type website where users can share their creations for all to see. Join us in exploring the wonders of Kerbal Space Program modding and development!
-
-```
